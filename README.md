@@ -8,4 +8,6 @@ src:
 - Album.java
 - Album1.java
 - Animal.java
+- Animal1.java
+- Bank.java
 
