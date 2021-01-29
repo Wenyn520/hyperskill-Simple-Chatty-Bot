@@ -18,5 +18,7 @@ src:
 - Calculator.java ← *OOP - Carpet cost calculator*
 - CanFly.java ← *interface*
 - Can.java ← *OOP*
+- Carpet.java ← *OOP - Carpet cost calculator*
+- Case.java ← *Composition*
 
 
