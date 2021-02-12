@@ -21,6 +21,6 @@ src:
 - Carpet.java ← *OOP - Carpet cost calculator*
 - Case.java ← *Composition*
 - Circle.java ← *OOP - Cylinder*
-- ComplexNumber ← *OOP - Complex operations*
-- Contact1 ← *ArrayList - instructor solution of challenge*
+- ComplexNumber.java ← *OOP - Complex operations*
+- Contact1.java ← *ArrayList - instructor solution of challenge*
 
