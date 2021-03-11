@@ -25,3 +25,4 @@ src:
 - Contact1.java ← *ArrayList - instructor solution of challenge*
 - Contacts.java ← *ArrayList*
 - Cuboid.java ← *Pool Area*
+- Customer.java OOP ← *Simple bank application*
