@@ -24,3 +24,5 @@ src:
 - Cuboid.java ← *Pool Area*
 - Customer.java ← *OOP - Simple bank application*
 - Cylinder.java ← *OOP - Cylinder*
+- DeluxeBurger.java ← *OOP*
+- DeskPhone.java ← *implements interface*
