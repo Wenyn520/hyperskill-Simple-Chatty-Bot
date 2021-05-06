@@ -26,3 +26,5 @@ src:
 - Cylinder.java ← *OOP - Cylinder*
 - DeluxeBurger.java ← *OOP*
 - DeskPhone.java ← *implements interface*
+- Dimensions.java ← *OOP - Composition*
+- Dog.java ← *OOP*
