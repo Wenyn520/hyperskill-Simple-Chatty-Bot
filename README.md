@@ -1,7 +1,7 @@
 # Java Programming Masterclass for Software Developers
 Practice1
 src: 
-- Account.java ← *OOP*
+- Account.java ← *OOP - Constructor Overloading, Getters, Setters*
 - Album.java ← *LinkedList*
 - Album1.java ← *inner class*
 - Animal.java
