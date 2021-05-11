@@ -28,3 +28,5 @@ src:
 - DeskPhone.java ← *implements interface*
 - Dimensions.java ← *OOP - Composition*
 - Dog.java ← *OOP*
+- Dog1.java ← *OOP - extends abstract class*
+- Dog2.java ← *override equals()*
