@@ -32,6 +32,8 @@ src:
 - Dog.java ← *OOP*
 - Dog1.java ← *OOP - extends abstract class*
 - Dog2.java ← *override equals()*
+- DwarfPlanet.java ← *Set*
+- EnhancedPlayer.java ← *Encapsulation*
 
 RegularExpression
 - Main.java ← *Regex*
