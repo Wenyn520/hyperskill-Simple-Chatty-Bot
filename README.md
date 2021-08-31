@@ -35,12 +35,12 @@
 - EnhancedPlayer.java ← *Encapsulation*
 - ExtendedPassword.java ← *final keyword*
 
-RegularExpression
+#### RegularExpression
 - Main.java ← *Regex*
 
-JavaNIO
+#### JavaNIO
 - Main.java ← *java.nio - Channel*
 
-MusicDB
+#### MusicDB
 - DataSource.java ← *JDBC - handles database - sql*
 
