@@ -1,7 +1,7 @@
 # Java Programming Masterclass for Software Developers
-## Projects 
+### Projects 
 
-### Practice1
+#### Practice1
 - Account.java ← *OOP - Constructor Overloading, Getters, Setters*
 - Album.java ← *LinkedList*
 - Album1.java ← *inner class*
