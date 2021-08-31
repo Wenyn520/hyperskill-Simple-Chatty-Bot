@@ -34,6 +34,7 @@ src:
 - Dog2.java ← *override equals()*
 - DwarfPlanet.java ← *Set*
 - EnhancedPlayer.java ← *Encapsulation*
+- ExtendedPassword.java ← *final keyword*
 
 RegularExpression
 - Main.java ← *Regex*
